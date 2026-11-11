@@ -1,0 +1,1 @@
+{"version":1,"format":"sealed-pages-v1","build":"51a6a8912b9fbd602e1033c618c174e7","basepath":"/ktrade/","cipher":"AES-256-GCM","kdf":"PBKDF2","hash":"SHA-256","iterations":600000,"salt":"ldXmD05ZqusqZF7AqvbHKW9HYXnOZSFoDPCdUULIH3s=","manifest":"444eb2a77d136aebdd50f6c15e73138cdfce89ab7b941a9626fe7b39bdd547c4","chunkSize":4194304}
